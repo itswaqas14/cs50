@@ -1,0 +1,8 @@
+if (change > 0.25
+/0.25,change++)
+else if(change>0.10
+/0.10,change++)
+else if(change>0.05
+/0.05,change++)
+else if(change>0.01
+/0.01,change++)

@@ -1,0 +1,3 @@
+ask fro height
+if not b/w 1 to 8 ask again
+print the pattern
